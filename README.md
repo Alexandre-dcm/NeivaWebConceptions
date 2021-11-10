@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeivaWebConceptions
 - 👀 I’m interested in the Web
 - 🌱 I’m currently learning Javascript, Ruby, MySQL, Wordpress, PHP
-- 💞️ I’m not looking to collaborate right now
+- 💞️ I’m looking to collaborate right now
 - 📫 How to reach me ? My e-mail.
 
 <!---
