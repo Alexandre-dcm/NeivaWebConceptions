@@ -10,5 +10,5 @@ For years, coding has been a real passion for me, that's why I always put hard w
 http://switiz.ch
 
 (Only in French for now)
-It is a website where you can leave a review and a note of the quality of life of the city you live in. The cities are ranked by their note and you can see all the others reviews.
+It is a website where you can leave a review and a note of the quality of life of the city you live in. The cities are ranked by their notes and you can see all the others reviews.
 It has been done in PHP, MySQL, JavaScript and SASS. I was the only one on the project, so I also do the webmastering, updates and maintenance.
